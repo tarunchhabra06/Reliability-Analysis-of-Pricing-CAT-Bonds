@@ -1,4 +1,4 @@
-# Reliability-Analysis-of-Pricing-CAT-Bonds
+# Reliability Analysis of Pricing of CAT Bonds
 
 Catastrophe (CAT) bonds are one of most recent financial derivatives and recently the most talked about instrument to be traded in the world markets. In this work, I am presenting a stochastic model for evaluating the price of a catastrophe bond. The price of the catastrophe bond is contingent on occurrence of natural disaster and losses incurred due to it. Understanding the losses incurred due to the disaster is cardinal to the bond valuation. We model the loses incurred due to the catastrohphe events . In this report we are modelling a specifc type of CAT bond with trigger event as modelled losses. The bond loses its value if the losses incurred due to the catastrophe events exceed the threshold. Reliability analysis provides the with the probability of failure of bond i.e. the proabability that the bond will lose its value. The objective is to equip investors with efficient valuation model in order to develop better hedging techniques.
 
